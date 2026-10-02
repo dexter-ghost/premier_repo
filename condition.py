@@ -14,3 +14,5 @@ print("Les deux valeurs sont numériques !")
 
 nombre1 = int(nombre1)
 nombre2 = int(nombre2)
+
+test = 0
