@@ -1,5 +1,3 @@
-Bienvenue 
+Mon premier depot 
 
-Voici mon premier dépôt 
-
-![Logo](/home/dexter/Documents/test_rpg/images.jpeg)
+![](/home/dexter/Documents/test_rpg/images.jpeg)
